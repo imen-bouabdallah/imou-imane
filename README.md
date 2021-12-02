@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imou-imane
+- 👋 Hi, I’m @imen-bouabdallah
 - 👀 I’m interested in mobile developement 
 - 🌱 I’m currently learning flutter, python, reinforcement learning
 - 💞️ I’m looking to collaborate on new projects
